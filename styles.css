@@ -1,0 +1,4 @@
+video {
+    max-width: 100%; /* Se asegura de que no exceda el ancho del contenedor */
+    height: auto; /* Mantiene la relación de aspecto */
+}
